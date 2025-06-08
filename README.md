@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Satvik Patil!
 
-<!--
-**Satvik-Patil17/Satvik-Patil17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="font-size: 14px; line-height: 1.6;">
+  I’m an aspiring data analyst passionate about data 🔍exploration, 📊visualization, and solving business problems 💡.<br>
+  Skilled in SQL, Excel, and Power BI 🛠️. Currently learning Python and machine learning 🤖.<br>
+  I enjoy turning raw data into meaningful insights and building clear, impactful dashboards 📈.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+
+### Languages & Analytics
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+### Visualization Tools
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+--- 
+
+
+## 📂 Featured Projects
+
+### 🔹 [Concrete Strength Prediction](https://github.com/Satvik-Patil17/Concrete-strength-prediction)
+A machine learning project to predict the compressive strength of concrete based on various components.
+
+### 🔹 [Diwali Sales Analysis](https://github.com/Satvik-Patil17/Diwali-Sales-Analysis)
+Analyzes sales data to uncover top products, customer behavior, and revenue trends using Power BI and Python.
+
+### 🔹 [Hospital Analytics Dashboard](https://github.com/Satvik-Patil17/-Hospital-Analytics-Dashboard)
+A Power BI dashboard for healthcare insights – visualizing patient data, costs, and operations.
+
+### 🔹 [HR Attrition Insights](https://github.com/Satvik-Patil17/-HR-Attrition-Insights-Dashboard)
+Power BI dashboard to visualize and predict employee attrition using historical HR data.
+
+---
+
+## 📫 How to Reach Me
+ 
+- 📧 **Email**   : [satvikp551@gmail.com](mailto:satvikp551@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/https://www.linkedin.com/in/satvik-patil-09881a277/](https://linkedin.com/in/https://www.linkedin.com/in/satvik-patil-09881a277/)  
+- 🌐 **GitHub**  : [github.com/Satvik-Patil17](https://github.com/Satvik-Patil17)
+---
+
+## 🌟 Fun Fact
+<p style="font-size: 14px; line-height: 1.6;">
+When I’m not analyzing data, I enjoy exploring new cultures, organizing events, riding bike, and reading books! 📚🌍
+</p>
+---
+<p style="font-size: 14px; line-height: 1.6;">
+  📌 Let’s Collaborate!<br>
+  If you’re working on exciting projects in data analytics, machine learning, or visualization, feel free to reach out or collaborate.<br>
+  Let’s make data-driven decisions together! 💡
+</p>
+
