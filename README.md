@@ -45,7 +45,7 @@ Power BI dashboard to visualize and predict employee attrition using historical 
 ## 📫 How to Reach Me
  
 - 📧 **Email**   : [satvikp551@gmail.com](mailto:satvikp551@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/https://www.linkedin.com/in/http://linkedin.com/in/Satvikpatil17](http://linkedin.com/in/Satvikpatil17)  
+- 💼 **LinkedIn**: [linkedin.com/in/Satvikpatil17](http://linkedin.com/in/Satvikpatil17)  
 - 🌐 **GitHub**  : [github.com/Satvik-Patil17](https://github.com/Satvik-Patil17)
 ---
 
