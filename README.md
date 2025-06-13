@@ -40,6 +40,10 @@ A Power BI dashboard for healthcare insights – visualizing patient data, costs
 ### 🔹 [HR Attrition Insights](https://github.com/Satvik-Patil17/-HR-Attrition-Insights-Dashboard)
 Power BI dashboard to visualize and predict employee attrition using historical HR data.
 
+### 🔹 [Fraud Detection SQL Project](https://github.com/Satvik-Patil17/fraud-detection-sql-project)
+A SQL-based data analysis project for detecting and analyzing fraudulent transactions using advanced querying techniques like window functions, views, aggregations, and CTEs.
+
+
 ---
 
 ## 📫 How to Reach Me
